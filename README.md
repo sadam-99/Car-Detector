@@ -1,8 +1,7 @@
-# Convolutional Neural Network for Car Recognition
-
+# Convolutional Neural Network for Car Detection
 The code contains a basic *car recognizer* using `keras` library.
 
-We have implemented a simple convolutional neural network that achieves over *95%* accuracy
+We have implemented a simple convolutional neural network that achieves over *92%* accuracy
 
 In the architecture of the Conv net, we have a following layers:
 - Conv layer
@@ -20,4 +19,4 @@ In the architecture of the Conv net, we have a following layers:
 - Install `skimage` using `sudo pip install scikit-image`
 
 ## Execute:
-`python kerasCNN.py`
+`python car_detection_CNN.py`
