@@ -1,5 +1,5 @@
 # Convolutional Neural Network for Car Detection
-The code contains a basic *car recognizer* using `keras` library.
+The code contains a basic *car Detector* using `keras` library.
 
 We have implemented a simple convolutional neural network that achieves over *92%* accuracy
 
